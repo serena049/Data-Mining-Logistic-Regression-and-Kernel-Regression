@@ -1,0 +1,11 @@
+quadratic
+Kernaltype is: 
+quadratic
+epsilon is: 
+0.1
+ita is: 
+0.1
+spread is: 
+0
+accuracy is: 
+0.791262135922

@@ -1,0 +1,6 @@
+epsilon is: 
+0.1
+ita is: 
+0.1
+accuracy is: 
+0.844660194175

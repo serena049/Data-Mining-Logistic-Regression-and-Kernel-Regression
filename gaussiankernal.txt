@@ -1,0 +1,10 @@
+Kernaltype is: 
+Gaussian
+epsilon is: 
+0.1
+ita is: 
+0.1
+spread is: 
+0.1
+accuracy is: 
+0.640776699029
